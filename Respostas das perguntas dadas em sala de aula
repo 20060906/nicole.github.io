@@ -1,0 +1,5 @@
+1) A tag <b> serve para colocar uma palavra ou parte do texto em negrito. Já a tag <p> serve para começar um novo parágrafo.
+
+2) A tag "<p>" não foi fechada corretamente antes de abrir a tag "<center>".
+
+3) A tag <a href> é utilizada para criar hiperlinks, que são elementos clicáveis que podem direcionar o usuário para outra página da web, um documento, uma parte específica da mesma página ou para executar uma ação específica. O atributo href (abreviação de "hypertext reference") especifica o destino do link.
